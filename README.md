@@ -16,5 +16,8 @@
 ## 3:Operation video below:
 
 
-https://github.com/knowledgeAlan/NFT-mint-ERC20Token/assets/5988231/c1fcc71f-32ae-4c5c-9923-5ee4a122aeaa
+
+
+
+https://github.com/knowledgeAlan/NFT-mint-ERC20Token/assets/5988231/a38e2198-d1e7-4e52-8e3c-92c103a61f27
 
